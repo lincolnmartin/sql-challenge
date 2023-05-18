@@ -1,1 +1,1 @@
-# sql-challenge
+# This is my submission for the SQL challenge. In this assignment, I imported and created tables based on employee info within a csv file. I then queried through the tables to more easily reveal key information such as employee department, salary information, how long employees have worked there, etc. 
